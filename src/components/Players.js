@@ -17,6 +17,7 @@ export default class player extends Component {
                  </div>
                 ))}
             </div>
-          )              
+          )
+                      
     }
 }
