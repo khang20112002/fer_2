@@ -1,0 +1,65 @@
+export const Films = [
+{
+    id: 1,
+    image: "<your folder>",
+    title: "Star Wars: Episode IV - A New Hope",
+    year: "1977",
+    nation: "USA",
+},           
+{
+    id: 2,
+    image: "<your folder>",
+    title: "Star Wars: Episode IV - A New Hope",
+    year: "1977",
+    nation: "USA",
+},
+{
+    id: 3,
+    image: "<your folder>",
+    title: "Star Wars: Episode IV - A New Hope",
+    year: "1977",
+    nation: "USA",
+},
+{
+    id: 4,
+    image: "<your folder>",
+    title: "Star Wars: Episode IV - A New Hope",
+    year: "1977",
+    nation: "USA",
+},
+{
+    id: 5,
+    image: "<your folder>",
+    title: "Star Wars: Episode IV - A New Hope",
+    year: "1977",
+    nation: "USA",
+},
+{
+    id: 6,
+    image: "<your folder>",
+    title: "Star Wars: Episode IV - A New Hope",
+    year: "1977",
+    nation: "USA",
+},
+{
+    id: 7,
+    image: "<your folder>",
+    title: "Star Wars: Episode IV - A New Hope",
+    year: "1977",
+    nation: "USA",
+},
+{
+    id: 8,
+    image: "<your folder>",
+    title: "Star Wars: Episode IV - A New Hope",
+    year: "1977",
+    nation: "USA",
+},
+{
+    id: 9,
+    image: "<your folder>",
+    title: "Star Wars: Episode IV - A New Hope",
+    year: "1977",
+    nation: "USA",
+}
+]
